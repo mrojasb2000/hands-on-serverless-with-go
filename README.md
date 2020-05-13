@@ -26,3 +26,5 @@ Hands-On Serverless Application with Go
 * go mod init github.com/mrojasb2000/hands-on-serverless-with-go/helloworld
 
 * go run main
+
+* go build -o app main.go
