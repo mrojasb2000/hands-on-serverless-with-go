@@ -25,6 +25,10 @@ Hands-On Serverless Application with Go
 
 * go mod init github.com/mrojasb2000/hands-on-serverless-with-go/helloworld
 
+Compile the file with the following command:
+
 * go run main
+
+Go is a compiled language, and hence you can generate a single binary for your application using the following command:
 
 * go build -o app main.go
