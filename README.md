@@ -1,6 +1,7 @@
 # hands-on-serverless-with-go
 Hands-On Serverless Application with Go
 
+## Basic config Amazon Web Service
 * brew install awscli
 
 * aws --version
