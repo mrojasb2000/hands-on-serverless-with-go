@@ -24,3 +24,5 @@ Hands-On Serverless Application with Go
 ## Create Golang project - Hello World
 
 * go mod init github.com/mrojasb2000/hands-on-serverless-with-go/helloworld
+
+* go run main
