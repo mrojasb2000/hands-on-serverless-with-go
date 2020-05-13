@@ -13,3 +13,5 @@ Hands-On Serverless Application with Go
 - region=eu-central-1
 
 * aws lambda list-functions --profile default --region us-east-1
+
+* aws lambda list-functions --profile default --region us-east-1 --output <table|json|text>
