@@ -32,3 +32,7 @@ Compile the file with the following command:
 Go is a compiled language, and hence you can generate a single binary for your application using the following command:
 
 * go build -o app main.go
+
+If you want to build an executable for a specific OS and architecture, you can override the GOOS and GOARCH parameters:
+
+* GOOS=linux GOARCH=amd64 go build -o app main.go
